@@ -1,0 +1,10 @@
+F:\laptrinhwindows\CALC_DuongCongNhat\CALC_DuongCongNhat\bin\Debug\CALC_DuongCongNhat.exe.config
+F:\laptrinhwindows\CALC_DuongCongNhat\CALC_DuongCongNhat\bin\Debug\CALC_DuongCongNhat.exe
+F:\laptrinhwindows\CALC_DuongCongNhat\CALC_DuongCongNhat\bin\Debug\CALC_DuongCongNhat.pdb
+F:\laptrinhwindows\CALC_DuongCongNhat\CALC_DuongCongNhat\obj\Debug\CALC_DuongCongNhat.csproj.AssemblyReference.cache
+F:\laptrinhwindows\CALC_DuongCongNhat\CALC_DuongCongNhat\obj\Debug\CALC_DuongCongNhat.Form1.resources
+F:\laptrinhwindows\CALC_DuongCongNhat\CALC_DuongCongNhat\obj\Debug\CALC_DuongCongNhat.Properties.Resources.resources
+F:\laptrinhwindows\CALC_DuongCongNhat\CALC_DuongCongNhat\obj\Debug\CALC_DuongCongNhat.csproj.GenerateResource.cache
+F:\laptrinhwindows\CALC_DuongCongNhat\CALC_DuongCongNhat\obj\Debug\CALC_DuongCongNhat.csproj.CoreCompileInputs.cache
+F:\laptrinhwindows\CALC_DuongCongNhat\CALC_DuongCongNhat\obj\Debug\CALC_DuongCongNhat.exe
+F:\laptrinhwindows\CALC_DuongCongNhat\CALC_DuongCongNhat\obj\Debug\CALC_DuongCongNhat.pdb
